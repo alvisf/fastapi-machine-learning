@@ -1,7 +1,7 @@
-# Create CD/CI for A dockerized FastAPI RestAPI and orchestrate it with Kubernetes
+# Createdockerized FastAPI RestAPI For ML
 
 ## Task
-Rest API to CRUD data(quiz info) with SQLAlchemy (ORM) and serve it inside a docker container with persistent changes. Create a Test file to Unit test the API with pytest. Create a continuous deployment pipeline with circleCi. Create a Kubernetes cluster and orchestrate it.
+
 
 ## How to start the program
 
